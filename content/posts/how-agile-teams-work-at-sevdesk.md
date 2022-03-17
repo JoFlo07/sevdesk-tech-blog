@@ -1,10 +1,10 @@
 ---
 title: "How agile teams work at sevDesk"
-date: 2022-03-18T11:58:42+01:00
+date: 2022-03-17T11:58:42+01:00
 draft: true
 ---
 
-# End to end responsibility
+## End to end responsibility
 
 A couple of months ago we re-organized most of our agile dev teams.
 
@@ -16,19 +16,19 @@ This make teams really powerful. They also got ownership over their part of the 
 
 We call these teams “vertical” teams as they own one vertical slice of our application landscape.
 
-# An exception to the rule
+## An exception to the rule
 
 There is one team that does things differently. This team is our Platform Team. That team supports all other teams to bring their services live. It also makes sure that security is in place and all the basic network “wiring” is done properly (DNS/NAT etc). It’s not a vertical team, but a horizontal team.
 
 The Platform Team works as an enabler for the other teams. It is there for all other teams in case of questions, but it does not run the systems for the teams. Normally, vertical teams are responsible to run their own services.
 
-# The future
+## The future
 
 There are topics like “growth” or “internationalization” that span multiple teams. We could manage this this by using the POs of the teams to sync and distribute the topics to their teams. Sounds good. But is very slow in practice. Or we use horizontal teams that work on many parts of the application - together with our vertical agile teams.
 
 We’ll experiment in the future with that setup. But for now we are happy with our agile setup :)
 
 
-# More
+## More
 
  * Great book: “Team Topologies: Organizing Business and Technology Teams for Fast Flow” by Matthew Skelton and Manuel Pais

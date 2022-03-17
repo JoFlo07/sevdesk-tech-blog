@@ -3,3 +3,7 @@ languageCode = 'en-us'
 title = 'sevDesk Tech Blog'
 theme = "ananke"
 
+[params]
+  #site_logo = "img/sevdesk-logo.png"
+  show_reading_time = true
+  background_color_class = "bg-gray"
