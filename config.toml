@@ -1,0 +1,5 @@
+baseURL = 'https://sevdesk.github.io/sevdesk-tech-blog/'
+languageCode = 'en-us'
+title = 'sevDesk Tech Blog'
+theme = "ananke"
+
