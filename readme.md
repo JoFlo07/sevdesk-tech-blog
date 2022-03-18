@@ -30,7 +30,7 @@ Also see https://gohugo.io/getting-started/quick-start/
 
 You can then start hugo via
 
-    hugo sever -D
+    hugo serve -D
 
 To create a new post either use
 
