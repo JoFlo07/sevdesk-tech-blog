@@ -1,8 +1,6 @@
 ---
 title: "Time to give something back - our blog begins"
 date: 2022-03-17T11:58:42+01:00
-draft: true
-featured_image: "/img/sevdesk-hero.jpg"
 omit_header_text: true
 ---
 

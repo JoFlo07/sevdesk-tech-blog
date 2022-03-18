@@ -1,11 +1,23 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+description: "About sevdesk"
+featured_image: '/img/1622117076-culturenightms03111.jpeg'
 menu:
   main:
     weight: 1
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+sevDesk is a company that makes accounting for small buisnesses as enjoyable as a great afternoon at the beach.
+
+We are a tech company and we love what we do.
+
+That's why we are running this blog. To give some insights. Discuss ideas how we work. And maybe inspire people with some lessons we learned in the last years :)
+
+We are growing and are hiring - also remotely. Check out our [career pagges](https://sevdesk.de/karriere/).
+
+If you got any comments or feedback for us feel free to reach out to us ([Tobin](mailto:tobin@sevdesk.de) and [Raphael](mailto:raphael.bauer@sevdesk.de)). Looking forward to hearing from you!
+
+
+
+
+

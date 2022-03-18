@@ -1,7 +1,8 @@
 ---
 title: "How agile teams work at sevDesk"
-date: 2022-03-17T11:58:42+01:00
-draft: true
+date: 2022-03-18T11:58:42+01:00
+featured_image: '/img/1622117103-ms00788.jpeg'
+omit_header_text: true
 ---
 
 ## End to end responsibility
