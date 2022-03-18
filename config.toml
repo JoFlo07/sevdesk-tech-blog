@@ -1,4 +1,4 @@
-baseURL = 'https://sevdesk.github.io/sevdesk-tech-blog/'
+baseURL = 'https://tech.sevdesk.com'
 languageCode = 'en-us'
 title = 'sevDesk Tech Blog'
 theme = "ananke"
