@@ -1,15 +1,9 @@
-{{/* Copy from original template - adds more links to privacy policy etc */}}
-<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
-    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://sevdesk.com" >
-      &copy; sevDesk {{ now.Format "2006"}}
-    </a>
-    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://sevdesk.com/privacy-policy/" >
-      Privacy Policy
-    </a>
-    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://sevdesk.com/legal-notice/" >
-    Imprint / Legal notice
-    </a>
-    <div>{{ partial "social-follow.html" . }}</div>
+{{/* Inspired by the following component: https://tachyons.io/components/footers/small-print/index.html*/}}
+<footer class="pv4 ph3 ph5-m ph6-l mid-gray">
+  <small class="f6 db tc">© {{ now.Format "2006"}} <b>sevDesk</b>., All Rights Reserved</small>
+  <div class="tc mt3">
+    <a href="https://sevdesk.com/legal-notice/" title="Legal Notice / Imprint" class="f6 dib ph2 link mid-gray dim">Legal Notice / Imprint</a>
+    <a href="https://sevdesk.com/privacy-policy/" title="Privacy Policy" class="f6 dib ph2 link mid-gray dim">Privacy Policy</a>
+    <a href="https://sevdesk.com" title="Language" class="f6 dib ph2 link mid-gray dim">sevDesk.com</a>
   </div>
 </footer>
