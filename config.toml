@@ -4,6 +4,6 @@ title = 'sevDesk Tech Blog'
 theme = "ananke"
 
 [params]
-  site_logo = "img/sevdesk-logo-inverted.png"
+  site_logo = "img/sevdesk-logo-inverted.svg"
   show_reading_time = true
   background_color_class = "bg-gray"
