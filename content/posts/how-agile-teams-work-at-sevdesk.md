@@ -24,7 +24,7 @@ The Platform Team works as an enabler for the other teams. It is there for all o
 
 ## The future
 
-There are topics like “growth” or “internationalization” that span multiple teams. We could manage this this by using the POs of the teams to sync and distribute the topics to their teams. Sounds good. But is very slow in practice. Or we use horizontal teams that work on many parts of the application - together with our vertical agile teams.
+There are topics like “growth” or “internationalization” that span multiple teams. We could manage this by using the POs of the teams to sync and distribute the topics to their teams. Sounds good. But is very slow in practice. Or we use horizontal teams that work on many parts of the application - together with our vertical agile teams.
 
 We’ll experiment in the future with that setup. But for now we are happy with our agile setup :)
 
