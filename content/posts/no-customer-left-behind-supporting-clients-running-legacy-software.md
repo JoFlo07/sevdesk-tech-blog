@@ -5,6 +5,17 @@ featured_image: 'https://sevdesk.imgix.net/34060/1602754028-herohausmeisterservi
 ---
 
 
+---
+ 
+**IMPORTANT: This was our April Fools' Joke 2022 !!!!**
+ 
+We will NEVER release sevDesk for Internet Explorer 6. And we'll ALWAYS help our customers
+to upgrade to the latest and safest browsers. Take our word for it!
+ 
+BUT it is true that we are hiring. [Check out our open positions. We are looking forward to hearing from you!](https://sevdesk.de/karriere/)
+ 
+---
+
 ## A problem discovered by the C-Level
 sevDesk is regularly holding management offsites with C-Level and VPs. A big topic in these management offsites is how to make sevDesk even more visible by improving the value we deliver to customers.
 
