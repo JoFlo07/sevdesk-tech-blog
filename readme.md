@@ -1,8 +1,7 @@
 # What is this?
 
 This is the sevDesk Techblog - hosted at https://tech.sevdesk.com.
-
-Tobin and Raphael are currently responsible. But everyone is encouraged to join the team.
+Everyone at sevDesk is encouraged to join the cause and write new articles.
 Feel free to reach out. We are superhappy about feedback!
 
 More:
