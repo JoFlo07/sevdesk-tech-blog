@@ -15,7 +15,7 @@ That's why we are running this blog. To give some insights. Discuss ideas how we
 
 We are growing and are hiring - also remotely. Check out our [career pages](https://sevdesk.de/karriere/).
 
-If you got any comments or feedback - feel free to reach out to us ([Tobin](mailto:tobin@sevdesk.de) and [Raphael](mailto:raphael.bauer@sevdesk.de)). Looking forward to hearing from you!
+If you got any comments or feedback - feel free to reach out to us ([Tobin](mailto:tobin@sevdesk.de) and [Hannes](mailto:hannes.boldt@sevdesk.de)). Looking forward to hearing from you!
 
 
 
