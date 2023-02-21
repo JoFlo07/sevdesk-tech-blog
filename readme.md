@@ -27,6 +27,11 @@ Make sure you got hugo installed. You can do so easily via
 
 Also see https://gohugo.io/getting-started/quick-start/
 
+Be sure you have the theme git submodule cloned locally. Otherwise you won't see any rendered html pages in your local development environment
+
+    git submodule update --init --recursive
+
+
 You can then start hugo via
 
     hugo serve -D
@@ -40,7 +45,10 @@ or simply copy an existing post into that directory.
 Once you are happy with your post simply push the post to master and it will be deployed by GitHub Actions.
 
 
+# Update the theme
+You can update the theme submodule like that
 
+    git submodule update --recursive --remote
 
 
 
