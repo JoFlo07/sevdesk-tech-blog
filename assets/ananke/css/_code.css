@@ -1,0 +1,54 @@
+.content-wrapper {
+  display: flex;
+}
+
+.main-content {
+  flex: 1;
+}
+
+.newsletter-sidebar {
+  width: 300px;
+  background-color: #f2f2f2;
+  padding-right: 30px;
+}
+
+.button-primary {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button-primary:hover {
+  background-color: #0056b3;
+}
+
+.input-email {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  transition: border-color 0.3s ease;
+}
+
+.input-email:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+.custom-list {
+  list-style-type: circle;
+  margin-top: 0
+}
+
+code {
+  background-color: #333333;
+  color: white;
+  padding: 0.1rem;
+  border-radius: 4px;
+  font-family: 'Courier New', monospace;
+}

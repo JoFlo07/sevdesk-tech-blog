@@ -2,9 +2,6 @@
 title: "About"
 description: "About sevdesk"
 featured_image: '/img/1622117076-culturenightms03111.jpeg'
-menu:
-  main:
-    weight: 1
 ---
 
 sevDesk is a company that makes accounting for small businesses as enjoyable as a great afternoon at the beach.

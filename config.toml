@@ -7,6 +7,22 @@ theme = "ananke"
   site_logo = "img/sevdesk-logo-inverted.svg"
   show_reading_time = true
   background_color_class = "bg-gray"
+  customCSS = ["css/custom.css"]
 
 [markup.goldmark.renderer]
   unsafe = true             # Allow html in markdown files
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[menu.main]]
+name = "Api News"
+url = "/api_news"
+weight = 3
