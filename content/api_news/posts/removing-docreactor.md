@@ -7,10 +7,10 @@ featured_image: '/img/gwg_abschreibung_hero.jpg'
 
 The Doc Server (docreactor.sevdesk.de), which can be used to generate PDFs for invoices among other things, will no longer be directly accessible.
 
-Status Quo:<br>
+<b>Status Quo:</b><br>
 PDF files can be generated using the Doc Server via docreactor.sevdesk.de.
 
-Future:<br>
+<b>Future:</b><br>
 The Doc Server (docreactor.sevdesk.de) will no longer be accessible.
 Instead, PDFs can be generated using the documented API endpoints.
 
