@@ -1,0 +1,49 @@
+{{ define "main" }}
+{{ $sectionName := "posts" }}
+{{ $sectionDir := "posts" }}
+{{ if eq .Section "api_news" }}
+{{ $sectionName = "api_news" }}
+{{ $sectionDir = "posts" }}
+{{ end }}
+
+{{ $section := .Site.GetPage "section" $sectionName }}
+
+<article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
+{{ .Content }}
+</article>
+
+<div class="pa3 pa4-ns w-100 w-70-ns center">
+    {{ with $section }}
+    <h1 class="flex-none">
+        {{ $.Param "recent_copy" | default (i18n "recentTitle" .) }}
+    </h1>
+    {{ end }}
+
+    {{ $n_posts := $.Param "recent_posts_number" | default 3 }}
+
+    <section class="w-100 mw8">
+        {{ range (first $n_posts (where $section.Pages "Section" $sectionDir)) }}
+        <div class="relative w-100 mb4">
+            {{ .Render "summary-with-image" }}
+        </div>
+        {{ end }}
+    </section>
+
+    {{ if gt (len (where $section.Pages "Section" $sectionDir)) $n_posts }}
+    <section class="w-100">
+        <h1 class="f3">{{ i18n "more" }}</h1>
+        {{ range (first 4 (after $n_posts (where $section.Pages "Section" $sectionDir))) }}
+        <h2 class="f5 fw4 mb4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "ml3" "mr3" }}">
+        <a href="{{ .RelPermalink }}" class="link black dim">
+            {{ .Title }}
+        </a>
+        </h2>
+        {{ end }}
+
+        {{ with $section }}
+        <a href="{{ .RelPermalink }}" class="link db f6 pa2 br3 bg-mid-gray white dim w4 tc">{{ i18n "allTitle" . }}</a>
+        {{ end }}
+    </section>
+    {{ end }}
+</div>
+{{ end }}
