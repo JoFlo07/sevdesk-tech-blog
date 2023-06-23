@@ -1,5 +1,6 @@
 ---
 title: "Upcoming changes 24.07.2023"
+date: 2023-06-13T11:58:42+01:00
 description: "API changes"
 featured_image: '/img/papierloses-buero.jpg'
 ---

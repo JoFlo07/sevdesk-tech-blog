@@ -1,5 +1,6 @@
 ---
 title: "Increased voucher validation"
+date: 2023-06-19T11:51:42+01:00
 description: "API changes"
 featured_image: '/img/ratgeber_hero_guvkonto-abschliessen.jpg'
 ---

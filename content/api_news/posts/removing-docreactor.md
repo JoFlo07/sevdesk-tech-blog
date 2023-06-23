@@ -1,5 +1,6 @@
 ---
 title: "Removing public access of the Doc Server"
+date: 2023-06-19T11:18:42+01:00
 description: "API changes"
 featured_image: '/img/gwg_abschreibung_hero.jpg'
 ---
