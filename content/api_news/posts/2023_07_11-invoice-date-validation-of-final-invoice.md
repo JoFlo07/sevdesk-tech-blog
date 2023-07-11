@@ -1,7 +1,8 @@
 ---
 title: "Invoice date validation of final invoices"
 date: 2023-07-11T09:34:22+02:00
-draft: true
+description: "API changes"
+featured_image: '/img/papierloses-buero.jpg'
 ---
 
 <br><br>
