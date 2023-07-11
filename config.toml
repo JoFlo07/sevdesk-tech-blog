@@ -23,6 +23,6 @@ url = "/about"
 weight = 2
 
 [[menu.main]]
-name = "Api News"
+name = "API News"
 url = "/api_news"
 weight = 3
