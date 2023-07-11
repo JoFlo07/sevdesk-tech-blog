@@ -5,7 +5,6 @@ description: "API changes"
 featured_image: '/img/papierloses-buero.jpg'
 ---
 
-<br><br>
 <b>Status Quo:</b>
 <br>
 The invoice date of a final invoice can be earlier than the date of an associated partial invoice.

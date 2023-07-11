@@ -48,7 +48,8 @@
 code {
   background-color: #333333;
   color: white;
-  padding: 0.1rem;
+  padding: 0.0rem;
   border-radius: 4px;
   font-family: 'Courier New', monospace;
+  display: inline-block;
 }
